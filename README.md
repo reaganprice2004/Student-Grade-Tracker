@@ -28,7 +28,11 @@ And run
 
 ## 🚀 How to Use
 Upon launching the program, any saved data in `grades.txt` will be loaded automatically. You'll be presented with a menu:
-<pre> ``` 1. Add student 2. View students 3. Class average 4. Save & Exit Choose: ``` </pre>
+<pre> 1. Add student
+2. View students
+3. Class average
+4. Save & Exit Choose:
+</pre>
 Just enter the number of the option that you would like to choose, and the code will react accordingly!
 
 ## 💡 Future Ideas
